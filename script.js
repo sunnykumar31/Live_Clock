@@ -63,5 +63,5 @@ function updateTime(k){
 }
 clock();
 
-var GetName=document.getElementById("text1");
-localStorage.setItem("info",JSON.stringify(GetName));
+// var GetName=document.getElementById("text1");
+// localStorage.setItem("info",JSON.stringify(GetName));
